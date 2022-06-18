@@ -47,4 +47,5 @@ let num7 = 0.1
 
 num6 = ((num6 * 100) + (num7 * 100)) / 100; // outra maneira de resolver
 console.log(num6)
-// vai chegar aos mesmo 0.8 igual o de cima no inicio 
+// vai chegar aos mesmo 0.8 igual o de cima no inicio
+

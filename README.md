@@ -11,6 +11,8 @@ Curso em andamento.</p>
 
 ----
 
+<br>
+
 # Curso-Udemy-Miranda-JS
 
 # [**Link para o Curso de JavaScript e TypeScript** ](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/)
