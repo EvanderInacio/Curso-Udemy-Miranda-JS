@@ -10,3 +10,5 @@ console.log(resultadoB, resultadoC, resultadoA)
 
 [varA, varB, varC] = [varB, varC, varA] // resultado que o professor chego
 
+
+

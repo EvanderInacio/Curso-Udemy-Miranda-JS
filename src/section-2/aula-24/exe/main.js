@@ -23,3 +23,4 @@ document.body.innerHTML += `Seu nome com letras maiúsculas: ${nome.toLocaleUppe
 <br />`
 document.body.innerHTML += `Seu nome com letras minusculas: ${nome.toLocaleLowerCase()} 
 <br />`
+

@@ -7,8 +7,8 @@
 
   ** = elevação sempre que quiser elevar um numero ao outro
   %  = retorna o resto da divisão 
-
   */
+ 
 
   const num1 = 5
   const num2 = 10

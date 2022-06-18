@@ -29,3 +29,4 @@
   
   console.log(umaString.split('r', 2)) // dividir um caractere, exe: 'r' ele não vai exibir todos os r da string
   // podendo colocar tbm um limite no caso ele vai exibir 2 resultados
+  

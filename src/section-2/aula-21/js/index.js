@@ -13,3 +13,4 @@ number2 = Number(number2)
 const resultado = number1 + number2
 
 alert(`O resultado da sua conta foi: ${resultado}`)
+

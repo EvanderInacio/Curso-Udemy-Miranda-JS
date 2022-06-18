@@ -10,6 +10,7 @@ const nome = 'João' // Não posso declarar uma constante sem colocar um valor n
 const primeiroNumero = 10
 const segundoNumero = 20
 
+
 const resultado = primeiroNumero + segundoNumero // guardando o resultado em 'resultado'
 
 const resultadoDuplicado = resultado * 5 // multiplicando o 'resultado' por 5

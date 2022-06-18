@@ -11,4 +11,5 @@ nome = 'Inácio'
 console.log(nome)
 
 
+
 // let nome; = Não posso redeclarar uma variavel assim
