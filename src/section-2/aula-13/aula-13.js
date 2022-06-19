@@ -1,3 +1,7 @@
+
+ // ====================== LET ==================================== //
+
+
 // case-sensitive = maiúsculas e minúsculas nomeCliente é diferente de nomecliente
 // Não podemos redeclarar variaveis com let
 

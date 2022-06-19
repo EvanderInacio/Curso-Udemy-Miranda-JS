@@ -1,3 +1,7 @@
+
+// ====================== CONST ==================================== //
+
+
 // case-sensitive = maiúsculas e minúsculas nomeCliente é diferente de nomecliente
 // não pode modificar o valor de uma constante
 
