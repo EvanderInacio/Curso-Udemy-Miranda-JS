@@ -1,0 +1,36 @@
+:root{
+  --background: rgb(17, 43, 128);
+  --secondary-color: rgb(235, 235, 235);
+  --title-color: rgb(60, 26, 164);
+}
+
+*{
+  box-sizing: border-box;
+  outline: none;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+  background: var(--background);
+  font-family: 'Roboto', sans-serif;
+  line-height: 1.5rem;
+  font-size: 1.3rem;
+}
+
+.container{
+  max-width: 640px;
+  margin: 50px auto;
+  background: var(--secondary-color);
+  padding: 20px;
+  display: grid;
+  align-items: center;
+  justify-items: center;
+  border-radius: 20px;
+}
+
+.container h1{
+  font-size: 40px;
+  color: var(--title-color);
+
+}
