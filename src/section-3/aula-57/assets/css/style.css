@@ -1,0 +1,100 @@
+:root{
+  --background: rgb(17, 43, 128);
+  --secondary-color: rgb(235, 235, 235);
+  --title-color: rgb(60, 26, 164);
+  --text-color: rgb(0, 0, 0);
+  --btn-background: rgb(166, 30, 30);
+  --btn-active: rgb(235, 45, 45);
+}
+
+*{
+  box-sizing: border-box;
+  outline: none;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+  background: var(--background);
+  font-family: 'Roboto', sans-serif;
+  line-height: 1.5rem;
+  font-size: 1.3rem;
+}
+
+.container{
+  max-width: 640px;
+  margin: 50px auto;
+  background: var(--secondary-color);
+  padding: 20px;
+  display: grid;
+  align-items: center;
+  justify-items: center;
+  border-radius: 20px;
+}
+
+.container h1{
+  font-size: 40px;
+  color: var(--title-color);
+  margin-bottom: 20px;
+}
+
+.container p{
+  font-size: 20px;
+  color: var(--text-color);
+  margin-bottom: 20px;
+}
+
+form, input, button, label{
+  display: block;
+  width: 100%;
+  margin-bottom: 10px; 
+}
+
+label{
+  margin-top: 30px;
+  font-size: 20px;
+  color: var(--title-color);
+  margin-bottom: 10px;
+}
+
+input{
+  padding: 10px;
+  border: 1px solid rgb(186, 182, 182);
+  border-radius: 4px;
+  background: #fff;
+}
+
+input:focus{
+  outline: 1px solid var(--background);
+}
+
+button{
+  margin: 2.2rem 0;
+  padding: 10px;
+  background: var(--title-color);
+  border: none;
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--text-color);
+  cursor: pointer;
+}
+
+button:hover{
+  background: var(--btn-background);
+  color: #fff;
+}
+
+button:active{
+  background: var(--btn-active);
+  color: #fff;
+}
+
+span{
+  font-size: 20px;
+  color: var(--text-color);
+  margin-bottom: 30px;
+}
+
+#resultado{
+  padding: 20px 30px;
+}
