@@ -1,11 +1,14 @@
 
 // ========================== Curto Circuito ========================== //
 
+/*
+  && = será true se todos os operadores forem true. Caso contrário será false. Retornando imediatamente com o valor do primeiro operando falso que encontrar; se todos os valores forem true , o valor do último operando será retornado.
+*/
 
-/**
- && false && true -> false "O valor mesmo"
- || false && true -> ele vai retornar o primeiro valor verdadeiro
- */
+/*
+|| = será false se todos os operadores forem falsos, caso contrario se tiver um ou mais verdadeiros ele sempre vai retorna verdadeiro.
+*/
+
 
  console.log('Evander' && 0 && 'Cristiano') // ele vai retornar 0
 
